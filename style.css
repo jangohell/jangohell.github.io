@@ -1,0 +1,51 @@
+body {
+    background-color:#3BB273;
+    padding: 05%;
+  }
+
+#nome {
+    font-family: 'Abril Fatface', cursive;
+    text-align: center;
+  }
+p {
+    font-size:30px;
+    font-family: 'Caveat', cursive;
+    color: red;
+  }
+h2 {
+    font-style: italic;
+    text-decoration: underline;
+    font-size:20px;
+  }
+li {
+    line-height: 30px;
+  }
+.skill1 {
+    font-size: 15px;
+  }
+.skill2 {
+    font-size: 16px;
+  }
+.skill3 {
+    font-size: 17px;
+  }
+.skill4 {
+    font-size: 18px;
+  }
+#foto {
+  float: left;
+  width: 180px; 
+  height: 215px;
+  padding: 15px;
+  background-color: yellowgreen;
+}
+div {
+  border: 3px double blue;
+}
+.fotoedescricao {
+  height: 245px;
+  margin: 2%;
+}
+ul li:nth-child(odd) {
+  color: crimson;
+}
