@@ -46,6 +46,6 @@ div {
   height: 245px;
   margin: 2%;
 }
-ul li:nth-child(odd) {
+.skills li:nth-child(odd) {
   color: crimson;
 }
